@@ -32,12 +32,6 @@ A simple, easy-to-use and secure application for managing credit card related ac
 
 ## Run Locally
 
-1. #### Clone the EasyCredsSpringBoot
-
-```bash
-    git clone https://github.com/dilip0418/EasyCredsSpringBoot
-```
-
 2. #### Ensure you have the following installed:
 
 Check for Prerequisites
